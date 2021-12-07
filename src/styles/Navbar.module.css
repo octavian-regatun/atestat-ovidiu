@@ -1,0 +1,14 @@
+.pages {
+  display: flex;
+  align-items: center;
+  margin-left: 32px;
+}
+
+.pages > div {
+  margin-right: 16px;
+}
+
+.button {
+  margin-right: 8px !important;
+}
+
