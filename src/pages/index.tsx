@@ -47,9 +47,9 @@ const Home: NextPage = () => {
           <br />
           &emsp;Germania face un pas important în dezvoltarea transportului
           verde, intenționând să construiască prima autostradă pentru biciclete
-          de pe teritoriul său.[1] De curând, a fost deschis publicului primul
-          tronson al șoselei, măsurând 5 kilometri.[1] În momentul în care va fi
-          finalizată, autostrada va avea o lungime de 100 de kilometri.[1]
+          de pe teritoriul său. De curând, a fost deschis publicului primul
+          tronson al șoselei, măsurând 5 kilometri. În momentul în care va fi
+          finalizată, autostrada va avea o lungime de 100 de kilometri.
           <br />
           <br />
           <b>&emsp;Cerințe legale</b>

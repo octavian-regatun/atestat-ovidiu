@@ -31,6 +31,11 @@ export default function Navbar() {
                 Componente
               </Button>
             </Link>
+            <Link href="clasificare">
+              <Button color="inherit" className={styles.button}>
+                Clasificare
+              </Button>
+            </Link>
           </div>
         </Toolbar>
       </AppBar>

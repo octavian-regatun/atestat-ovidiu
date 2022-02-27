@@ -19,7 +19,7 @@ const ComponentePage: NextPage = () => {
     <>
       <Navbar />
       <Container maxWidth="md" className={styles.container}>
-        <Image src={Nukeproof} width="500" height="350" alt="image" />
+        <Image src={Cadru} width="500" height="500" alt="image" />
         <Typography variant="body1">
           &emsp;<b>Cadrul</b>
           <br />
@@ -33,6 +33,8 @@ const ComponentePage: NextPage = () => {
           materiale plastice armate cu fibre de carbon.
           <br />
           <br />
+        </Typography>
+        <Typography variant="body1">
           &emsp;<b>Ghidonul</b>
           <br />
           <br />
@@ -42,6 +44,10 @@ const ComponentePage: NextPage = () => {
           curbate (riserbar). Mărci de ghidoane: Truvativ, FSA, Point.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Furca} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Furca</b>
           <br />
           <br />
@@ -58,6 +64,10 @@ const ComponentePage: NextPage = () => {
           Manitou, Magura - nu neapărat în ordinea performanței.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Jante} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Rotile</b>
           <br />
           <br />
@@ -72,6 +82,10 @@ const ComponentePage: NextPage = () => {
           Sunrims, Beretta, Remerx, Roval.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Pedale} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Pedalele</b>
           <br />
           <br />
@@ -81,6 +95,8 @@ const ComponentePage: NextPage = () => {
           alte părți ale bicicletei
           <br />
           <br />
+        </Typography>
+        <Typography variant="body1">
           &emsp;<b>Lantul</b>
           <br />
           <br />
@@ -90,6 +106,10 @@ const ComponentePage: NextPage = () => {
           roții din spate.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Pinioane} width="300" height="600" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Pinioanele</b>
           <br />
           <br /> &emsp;Pentru transmiterea mișcării de la pedale la roata din
@@ -105,6 +125,10 @@ const ComponentePage: NextPage = () => {
           dinți. Mărci de pinioane: SRAM, Shimano, Campagnolo, Miche.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Schimbator} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Schimbatoarele</b>
           <br />
           <br />
@@ -115,6 +139,10 @@ const ComponentePage: NextPage = () => {
           Campagnolo.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Frane} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Franele</b>
           <br />
           <br />
@@ -134,6 +162,10 @@ const ComponentePage: NextPage = () => {
           Logan, Promax, Hayes, Avid.
           <br />
           <br />
+        </Typography>
+
+        <Image src={Sa} width="500" height="500" alt="image" />
+        <Typography variant="body1">
           &emsp;<b>Saua</b>
           <br />
           <br /> &emsp;Este "scaunul" bicicletei. La unele biciclete destinate
@@ -143,6 +175,8 @@ const ComponentePage: NextPage = () => {
           sporit ciclistului/ciclistei.
           <br />
           <br />
+        </Typography>
+        <Typography variant="body1">
           &emsp;<b>Accesorii</b>
           <br />
           <br />
